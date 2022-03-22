@@ -1,0 +1,17 @@
+1. Binary Selection and Multiple Selection are the two possible selection constructs that could be used to map the first three characters of name of the month to a month integer. 
+     1.1 Example of Compound Selection: 
+              if (month == 1)
+                  printf("%d-JAN-0%d\n", year, i+1);
+              else 
+                  printf("%d-FEB-0%d\n", year, i+1); 
+
+     1.2 Example of Multiple Selection:
+              if (month == 1)
+                  printf("%d-JAN-0%d\n", year, i+1);
+              else if (month == 2)
+                  printf("%d-FEB-0%d\n", year, i+1);
+2. The 3 types of iteration constructs are: for, while, and do while.  For workshop 3, “for” and “while” iteration constructs were used for validation routines. The “for” loop helped in jumping to the next desired date once the inputs were stored in the current date and also assisted in getting the total and the average for each day without having to write the same code for each date.
+       Also “while” loops were used to execute the desired output of the code when certain condition was met.                                                         
+3. In order to test and debug first, I read the code thoroughly to check and locate any errors made while typing my code. After that I marked breakpoints at the start and end points of statements, iterations, and conditions and ran my code in the debugger to locate any possible errors while inputting different values and fixing them along the way. 
+    Next step was to compile and run the program and made sure the compiled output matches the desired output and if not going over the same steps again.
+
