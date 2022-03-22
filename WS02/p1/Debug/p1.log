@@ -1,0 +1,5 @@
+﻿  w2p1.c
+C:\Users\mitta\source\repos\IPC-Workshops\WS02\p1\w2p1.c(22,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\mitta\source\repos\IPC-Workshops\WS02\p1\w2p1.c(27,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\mitta\source\repos\IPC-Workshops\WS02\p1\w2p1.c(30,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  p1.vcxproj -> C:\Users\mitta\source\repos\IPC-Workshops\WS02\p1\Debug\p1.exe

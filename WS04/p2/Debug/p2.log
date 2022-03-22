@@ -1,0 +1,6 @@
+﻿  w4p2.c
+C:\Users\Abhi\source\repos\IPC-Workshops\WS04\p2\w4p2.c(130,56): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Abhi\source\repos\IPC-Workshops\WS04\p2\w4p2.c(151,55): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Abhi\source\repos\IPC-Workshops\WS04\p2\w4p2.c(168,55): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Abhi\source\repos\IPC-Workshops\WS04\p2\w4p2.c(183,55): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  p2.vcxproj -> C:\Users\Abhi\source\repos\IPC-Workshops\WS04\p2\Debug\p2.exe

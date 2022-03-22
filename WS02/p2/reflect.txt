@@ -1,0 +1,27 @@
+	==================================================
+	Workshop #2 (Part-2):
+	==================================================
+	Name   : Abhi Bansal
+	ID     : 122132210
+	Email  : abansal19@myseneca.ca
+	Section: NLL
+
+1) it is because the output gives all the decimal values in the memory. 
+
+2)
+a) for intValue%2 - there are only 2 possible values either 0  or 1. For all the even numbers output comes out to 0 and for all the odd numbers output is 1.
+
+b) for intValue%3 - there are 3 possible outputs 0,1,2. for all multiples of 3 output is 0 and for the remaining numbers output is either 1 or 2.
+
+c) for intValue%100 - we get a 100 possible outputs ranging from 0-99.
+
+
+3) int totalSlices = 11 * 12; 
+
+   int estimatedSlicesConsumed = 21 * 3;
+
+   int wholePizzasEaten = 63(estimatedSlicesConsumed) / 12(number of slices in 1 Pizza);
+
+   int extraSlicesNeeded = 63(estimatedSlicesConsumed) % 12(number of slices in 1 Pizza);
+
+4) it is best use to convert floating-point decimals to int as it gets more specific output by avoiding a lot of arithmetic calculations using decimal places. we can cast the final output to floating-point.  
